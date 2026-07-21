@@ -8,6 +8,18 @@
     <description>DraftFinder アップデート</description>
     <language>ja</language>
     <item>
+      <title>Version 1.0.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 22 Jul 2026 06:39:04 +0900</pubDate>
+      <enclosure
+        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.2/DraftFinder-1.0.2.dmg"
+        sparkle:edSignature="DIogbHF39Cgjl8qMKf6v2SB6eWJF4BarjP6xc4IwN3aNcwVyT2/qNFmyhGDlBWeH3nTbbuV12fk+28B5MzLUBg=="
+        length="9094451"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
