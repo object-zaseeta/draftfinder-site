@@ -14,7 +14,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 27 Sep 2026 12:57:53 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.6/DraftFinder-1.0.6.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.6.dmg"
         sparkle:edSignature="8ZQ6nWen6ee3CNePYBp+vm63yPovKlCU0qwCr0wXnxzDJJH/3dZ8CWUFx1T9ZBwZfuOxqU64P1k7cALakXoOAQ=="
         length="9240859"
         type="application/octet-stream"/>
@@ -26,7 +26,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 22 Sep 2026 17:24:02 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.5/DraftFinder-1.0.5.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.5.dmg"
         sparkle:edSignature="me5oTXTr3+qGh/lST94Zz/maqwO2Ul29XZtRQHjJbLAuiqNpuuRgJkGjoJ5vG24OFZ1Nr7/OK4UYll0z0g/fBg=="
         length="9200469"
         type="application/octet-stream"/>
@@ -38,7 +38,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 03 Sep 2026 08:47:06 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.4/DraftFinder-1.0.4.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.4.dmg"
         sparkle:edSignature="hsLz9fe9YDAwWHp/ij15ugxC60o30/dGu7pXQLfhnG908adtO77q5uo+idEpSXHIwFIqY35sJ8tpKbSuOAZDAA=="
         length="9338112"
         type="application/octet-stream"/>
@@ -50,7 +50,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Fri, 07 Aug 2026 18:23:18 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.3/DraftFinder-1.0.3.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.3.dmg"
         sparkle:edSignature="0vcWznth9kT043snxQAno2rErSnv4vkAI7LzQSWd8zKc9OjoDF3cQ/hZjB/GFmS5zDshy8vhTKqwvk13YTiaBw=="
         length="9277483"
         type="application/octet-stream"/>
@@ -62,7 +62,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Wed, 22 Jul 2026 06:39:04 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.2/DraftFinder-1.0.2.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.2.dmg"
         sparkle:edSignature="DIogbHF39Cgjl8qMKf6v2SB6eWJF4BarjP6xc4IwN3aNcwVyT2/qNFmyhGDlBWeH3nTbbuV12fk+28B5MzLUBg=="
         length="9094451"
         type="application/octet-stream"/>
@@ -74,7 +74,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 09 Jul 2026 19:27:42 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.1/DraftFinder-1.0.1.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.1.dmg"
         sparkle:edSignature="9pRuHOTWQuBM/Uy7kexeMARrXzZwuW1BsIK2Ors64V5KW2IhAJ3ri98vGa/RuwjN/qub66CxhYKHZYSIdSicDw=="
         length="3547328"
         type="application/octet-stream"/>
@@ -86,7 +86,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
       <enclosure
-        url="https://github.com/object-zaseeta/DraftFinder/releases/download/v1.0.0/DraftFinder-1.0.0.dmg"
+        url="https://zaseeta.com/DraftFinder/downloads/DraftFinder-1.0.0.dmg"
         sparkle:edSignature="B6cN/2dRXZYxY2ozZw7caVV3+W6WfNkUIm/Arzn9tu5m8Yk1YMiCsss1KENYFnkRHWRlnQ6wg3Xdp7QnaySEAQ=="
         length="3414830"
         type="application/octet-stream"/>
